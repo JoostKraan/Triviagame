@@ -1,0 +1,15 @@
+E:\projects\Triviagamefinal\Triviagamefinal\bin\Debug\net6.0\Triviagamefinal.exe
+E:\projects\Triviagamefinal\Triviagamefinal\bin\Debug\net6.0\Triviagamefinal.deps.json
+E:\projects\Triviagamefinal\Triviagamefinal\bin\Debug\net6.0\Triviagamefinal.runtimeconfig.json
+E:\projects\Triviagamefinal\Triviagamefinal\bin\Debug\net6.0\Triviagamefinal.dll
+E:\projects\Triviagamefinal\Triviagamefinal\bin\Debug\net6.0\Triviagamefinal.pdb
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.csproj.AssemblyReference.cache
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.AssemblyInfoInputs.cache
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.AssemblyInfo.cs
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.csproj.CoreCompileInputs.cache
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.dll
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\refint\Triviagamefinal.dll
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.pdb
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\Triviagamefinal.genruntimeconfig.cache
+E:\projects\Triviagamefinal\Triviagamefinal\obj\Debug\net6.0\ref\Triviagamefinal.dll
