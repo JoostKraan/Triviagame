@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\Triviagamefinal\\Triviagamefinal\\Triviagamefinal.csproj",
+      "projectUniqueName": "E:\\projects\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj",
       "projectName": "Triviagamefinal",
-      "projectPath": "E:\\projects\\Triviagamefinal\\Triviagamefinal\\Triviagamefinal.csproj",
+      "projectPath": "E:\\projects\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj",
       "packagesPath": "C:\\Users\\2006j\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\Triviagamefinal\\Triviagamefinal\\obj\\",
+      "outputPath": "E:\\projects\\Triviagame\\Triviagamefinal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Shared\\NuGetPackages"
