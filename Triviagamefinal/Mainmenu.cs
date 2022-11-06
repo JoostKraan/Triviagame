@@ -399,7 +399,6 @@ namespace TriviaGame
                 Menu();
             }
         }
-
     }
 }
 

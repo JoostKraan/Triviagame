@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj": {}
+    "D:\\school\\triviagit\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj": {}
   },
   "projects": {
-    "E:\\projects\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj": {
+    "D:\\school\\triviagit\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj",
+        "projectUniqueName": "D:\\school\\triviagit\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj",
         "projectName": "Triviagamefinal",
-        "projectPath": "E:\\projects\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj",
-        "packagesPath": "C:\\Users\\2006j\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\Triviagame\\Triviagamefinal\\obj\\",
+        "projectPath": "D:\\school\\triviagit\\Triviagame\\Triviagamefinal\\Triviagamefinal.csproj",
+        "packagesPath": "C:\\Users\\Laptopjoost\\.nuget\\packages\\",
+        "outputPath": "D:\\school\\triviagit\\Triviagame\\Triviagamefinal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2006j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Laptopjoost\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
